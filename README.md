@@ -54,4 +54,4 @@ It combines a user-friendly interface, automated data storage, and a visual dash
 
 ## 📄 License
 
-MIT License
+[MIT License](LICENSE)
